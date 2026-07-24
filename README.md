@@ -43,6 +43,9 @@ I design, validate and lead the deployment of **clinical-grade bioinformatics pi
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GATK](https://img.shields.io/badge/GATK-variant%20calling-8A2BE2)
 ![VEP](https://img.shields.io/badge/VEP-annotation-1BAF7A)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?logo=redhat&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ---
 
@@ -64,21 +67,6 @@ I design, validate and lead the deployment of **clinical-grade bioinformatics pi
 - **SMART: A Somatic Mutation Annotation and Reporting Tool for cancer genomics** — *bioRxiv preprint*, 2026 (first author). <!-- add link: https://www.biorxiv.org/content/... -->
 - Contributor (NGS analysis pipeline) — peer-reviewed cancer-genomics research, 2026.
 - Invited speaker: University of Oviedo (clinical scientist role in the NHS), University of Valencia (privacy of clinical &amp; genomic data), BiOMICs / University of Southampton (SMART).
-
----
-
-### 🌐 A few public repositories
-- **[CNV-Classifier](https://github.com/Manuel-DominguezCBG/CNV-Classifier)** — annotate and classify CNVs in the Genomics England (GEL) Research Environment.
-- **Machine_learning**, **Reading_images** — exploratory data-science and OCR work.
-
----
-
-### 📈 Activity
-Most of my commits live in private clinical repositories. I have enabled **private contribution visibility**, so my contribution graph reflects this work (anonymised) even though the repositories themselves stay private.
-
-<!-- Optional stats card that counts private contributions once the setting is on (uncomment to use):
-![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuel-DominguezCBG&show_icons=true&count_private=true&hide_rank=true)
--->
 
 ---
 
