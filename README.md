@@ -64,8 +64,8 @@ I design, validate and lead the deployment of **clinical-grade bioinformatics pi
 ---
 
 ### 📄 Publications &amp; talks
-- **SMART: A Somatic Mutation Annotation and Reporting Tool for cancer genomics** — *bioRxiv preprint*, 2026 (first author). <!-- add link: https://www.biorxiv.org/content/... -->
-- Contributor (NGS analysis pipeline) — peer-reviewed cancer-genomics research, 2026.
+- **[SMART: A Somatic Mutation Annotation and Reporting Tool for cancer genomics](https://www.biorxiv.org/content/10.64898/2026.07.15.738659v1)** — *bioRxiv preprint*, 2026 (first author).
+- Contributor (NGS analysis pipeline) — [peer-reviewed cancer-genomics research](https://www.nature.com/articles/s41416-026-03366-5), *British Journal of Cancer*, 2026.
 - Invited speaker: University of Oviedo (clinical scientist role in the NHS), University of Valencia (privacy of clinical &amp; genomic data), BiOMICs / University of Southampton (SMART).
 
 ---
