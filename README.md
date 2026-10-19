@@ -1,17 +1,6 @@
-<!--
-  README de PERFIL de GitHub para Manuel.
-  Cómo usarlo:
-  1) Crea un repositorio PÚBLICO cuyo nombre sea EXACTAMENTE tu usuario de GitHub
-     (p. ej. si tu usuario es "manoloDB", el repo se llama "manoloDB").
-  2) Añade este archivo como README.md en la raíz de ese repo.
-  3) GitHub lo mostrará automáticamente en tu página principal de perfil.
-  Reemplaza los <PLACEHOLDER> por tus datos.
--->
-
-<h1 align="center">Hi, I'm Manuel 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 <p align="center">
-  <b>Clinical Bioinformatician · Wessex Genomics Laboratory Service (NHS)</b><br>
-  Higher Specialist Scientist Training (HSST) trainee — training towards Consultant Clinical Scientist
+  <b>Clinical Bioinformatician · genomic diagnostics (UK)</b><br>
 </p>
 
 <p align="center">
@@ -21,14 +10,14 @@
 ---
 
 ### 🔬 What I work on
-I design, validate and lead the deployment of **clinical-grade bioinformatics pipelines** for a genomics diagnostic laboratory — the software that turns sequencing data into results that inform patient care. My focus is on **accuracy, reproducibility and turnaround time** under ISO 15189 / UKAS accreditation.
+I design, validate and lead the deployment of **clinical-grade bioinformatics pipelines** for an accredited genomics diagnostic laboratory — the software that turns sequencing data into results that inform patient care. My focus is on **accuracy, reproducibility and turnaround time** under ISO 15189 accreditation.
 
-- Somatic and germline variant detection for haematological malignancies (AML, MDS, lymphoid panels)
+- Somatic and germline variant detection for haematological malignancies (myeloid and lymphoid panels)
 - Containerised, HPC-scheduled secondary-analysis pipelines (reproducible and auditable)
 - Method validation, false-positive reduction and quality control at scale
 - Genomic data governance, retention and integrity
 
-> ℹ️ **Most of my repositories are private** — they hold NHS clinical software and cannot be made public. The projects below are described by their purpose and impact rather than linked to source. My contribution graph reflects this private work (see *Activity*).
+> ℹ️ **Most of my repositories are private** — they hold clinical software and cannot be made public. The projects below are described by their purpose and impact rather than linked to source. My contribution graph reflects this private work.
 
 ---
 
@@ -51,28 +40,26 @@ I design, validate and lead the deployment of **clinical-grade bioinformatics pi
 
 ### 📌 Selected work *(private repositories — described, not linked)*
 
-**AmpliconPipeline** — Containerised, HPC-ready secondary-analysis pipeline for clinical amplicon sequencing in haematological malignancies. Modular (Apptainer + SLURM), validated to ISO 15189, with a custom machine-learning step for false-positive reduction. *Methods manuscript in preparation (first author).*
+**Clinical amplicon pipeline** — Containerised, HPC-ready secondary-analysis pipeline for clinical amplicon sequencing in haematological malignancies. Modular (Apptainer + SLURM), validated to ISO 15189, with a custom machine-learning step for false-positive reduction. *Methods manuscript in preparation.*
 
-**SMART** — Somatic Mutation Annotation and Reporting Tool for cancer genomics: a containerised pipeline integrating OncoKB clinical evidence with multiple annotation sources. *Preprint available (see Publications).*
+**Somatic annotation &amp; reporting tool** — Containerised pipeline for cancer genomics integrating curated clinical-actionability evidence with multiple annotation sources. *Preprint available.*
 
-**Pan-haematology coverage QC** — Re-engineered a coverage/QC workflow to run in parallel on the HPC cluster, cutting runtime from **>5 hours to under 1 hour (~90% faster)** for a clinically time-critical service.
+**Coverage QC at scale** — Re-engineered a coverage/QC workflow to run in parallel on an HPC cluster, cutting runtime from **>5 hours to under 1 hour (~90% faster)** for a clinically time-critical service.
 
 **Variant-confirmation reduction** — Data-driven analysis (with an interactive dashboard) to safely reduce orthogonal confirmation of NGS variants based on quality metrics, benchmarked against Genome-in-a-Bottle truth data.
 
-**Genomic data governance** — Authored the NGS data workflow, retention and integrity strategy (GDPR Article 9, RCPath / NHS records guidance), including a checksum/fixity approach to protect archived clinical data from silent corruption.
+**Genomic data governance** — Authored an NGS data workflow, retention and integrity strategy (GDPR special-category data, UK pathology records guidance), including a checksum/fixity approach to protect archived clinical data from silent corruption.
 
 ---
 
 ### 📄 Publications &amp; talks
-- **[SMART: A Somatic Mutation Annotation and Reporting Tool for cancer genomics](https://www.biorxiv.org/content/10.64898/2026.07.15.738659v1)** — *bioRxiv preprint*, 2026 (first author).
-- Contributor (NGS analysis pipeline) — [peer-reviewed cancer-genomics research](https://www.nature.com/articles/s41416-026-03366-5), *British Journal of Cancer*, 2026.
-- Invited speaker: University of Oviedo (clinical scientist role in the NHS), University of Valencia (privacy of clinical &amp; genomic data), BiOMICs / University of Southampton (SMART).
+- First-author preprint on a somatic mutation annotation and reporting tool for cancer genomics (2026).
+- Contributor (NGS analysis pipeline) to peer-reviewed cancer-genomics research (2026).
+- Invited talks at several universities on the clinical scientist role in the NHS, privacy of clinical &amp; genomic data, and somatic variant annotation.
 
 ---
 
 ### 📫 Get in touch
-- 💼 LinkedIn: [Manuel J. Domínguez](https://www.linkedin.com/in/manuel-j-dom%C3%ADnguez-aa97981b2/)
-- 📧 manolo.biomero@gmail.com
-- 🧬 ORCID: [0009-0006-3617-790X](https://orcid.org/0009-0006-3617-790X)
+Happy to talk clinical bioinformatics — open an issue or discussion on any of my public repositories.
 
-<sub>Clinical bioinformatics for NHS genomic diagnostics. Views my own.</sub>
+<sub>Clinical bioinformatics for genomic diagnostics. Views my own.</sub>
